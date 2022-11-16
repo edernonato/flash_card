@@ -1,5 +1,5 @@
 # flash_card
-h1 align="center"> Flash Card Project </h1>
+<h1 align="center"> Flash Card Project </h1>
 <h4 align="center"> Flash Card application to learn new Languages </h4>
 
 
